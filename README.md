@@ -19,7 +19,7 @@
 
 Execute os comandos abaixo via SSH na sua impressora:
 
-#bash
+```bash
 cd ~
 git clone https://github.com/omegapinho/OMEGA_PLR.git
 cd OMEGA_PLR
